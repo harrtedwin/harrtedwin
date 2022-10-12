@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edwin Kihara
-- 👀 I’m interested in Data, Quantum Computing, Machine Learning & Artificial Intelligence
+- 👀 I’m interested in Data, Quantum Computing & Artificial Intelligence
 - 🌱 I’m currently learning Data Science & Analytics, Machine Learning, Software Engineering best practises, Python 
 - 💞️ I’m looking to collaborate on any data related projects
 - 📫 How to reach me Email: mkihara.edwin@gmail.com LinkedIn: https://www.linkedin.com/in/edwinkihara/
