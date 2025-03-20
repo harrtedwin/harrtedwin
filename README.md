@@ -5,7 +5,13 @@
   <p style="font-size: 1.5em; color: #34495e; margin-top: 0;">
     Data Engineer | Big Data Analytics Specialist | MLOps & Machine Learning Professional
   </p>
-  <img src="https://source.unsplash.com/featured/800x400/?data,analytics" alt="Data Science Visualization" width="450" style="border-radius: 10px; margin-top: 20px;">
+  <!-- Tech-Themed GIF with overlay quote -->
+  <div style="position: relative; display: inline-block; margin-top: 20px;">
+    <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Tech GIF" width="450" style="border-radius: 10px;">
+    <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center; color: #ffffff; font-size: 1.2em; font-style: italic; text-shadow: 2px 2px 4px #000;">
+      "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke
+    </div>
+  </div>
 </div>
 
 <hr style="border: 2px solid #1abc9c; margin: 40px 0;">
@@ -44,7 +50,6 @@
     <!-- General Skills -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Blockchain-323232?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain">
     <img src="https://img.shields.io/badge/Data_Engineering-FF69B4?style=for-the-badge&logo=data&logoColor=white" alt="Data Engineering">
     <br/><br/>
     <!-- Big Data Analytics Skills -->
@@ -60,6 +65,16 @@
     <img src="https://img.shields.io/badge/MLflow-05A5D1?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
     <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
     <img src="https://img.shields.io/badge/Kubeflow-0E6EB8?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow">
+  </div>
+</div>
+
+<!-- Cloud Platforms Skills -->
+<div style="background-color: #eaf2f8; padding: 20px; border-radius: 10px; border: 2px dashed #3498db; margin-bottom: 40px;">
+  <h2 style="text-align: center; color: #3498db;">Cloud Platforms</h2>
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
   </div>
 </div>
 
@@ -89,4 +104,4 @@
   </em>
 </div>
 
-<!-- SEO Keywords: Data Engineering, Big Data Analytics, MLOps, Machine Learning, Data Science, SQL, Python, pySpark, Apache Spark, Apache Hadoop, Kubernetes, Docker -->
+<!-- SEO Keywords: Data Engineering, Big Data Analytics, MLOps, Machine Learning, Data Science, SQL, Python, pySpark, Apache Spark, Apache Hadoop, Kubernetes, Docker, AWS, Microsoft Azure, Google Cloud -->
