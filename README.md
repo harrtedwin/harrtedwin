@@ -5,7 +5,7 @@
   <p style="font-size: 1.5em; color: #34495e; margin-top: 0;">
     Data Engineer | Big Data Analytics Specialist | MLOps & Machine Learning Professional
   </p>
-  <img src="https://media.giphy.com/media/l0HlRmzOv1bGRx8Na/giphy.gif" alt="Data Engineering Professional" width="450" style="border-radius: 10px; margin-top: 20px;">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy8/giphy.gif" alt="Data Science Visualization" width="450" style="border-radius: 10px; margin-top: 20px;">
 </div>
 
 <hr style="border: 2px solid #1abc9c; margin: 40px 0;">
