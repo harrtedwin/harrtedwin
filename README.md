@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Edwin Kihara
-- 👀 I’m interested in Data, Quantum Computing, BlockChain & Artificial Intelligence
-- 🌱 I’m currently learning Data Engineering & Analytics, Machine Learning, Software Engineering best practises, SQL, Python & pySpark Programming
-- 💞️ I’m looking to collaborate on any data related projects
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/edwinkihara/
+# Hi there, I'm Edwin Kihara! 👋
 
-<!---
-harrtedwin/harrtedwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate tech enthusiast with a keen interest in **Data**, **Quantum Computing**, **Blockchain**, and **Artificial Intelligence**. I love exploring innovative technologies and diving deep into challenging projects.
+
+## What I'm Learning
+- **Data Engineering & Analytics**
+- **Machine Learning**
+- **Software Engineering Best Practices**
+- **SQL**
+- **Python**
+- **pySpark Programming**
+
+## Let's Collaborate!
+I'm always open to new opportunities and collaborations on data-related projects. If you have an interesting project or idea, let's connect!
+
+## How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/edwinkihara/)
+
+---
+
+*Thank you for visiting my profile. Stay curious and keep coding!*
