@@ -24,9 +24,8 @@
     <h2 style="color: #1abc9c;">About Me</h2>
     <p style="color: #2c3e50; font-size: 1.1em; line-height: 1.6;">
       I am a <strong style="color:#e74c3c;">Data Engineer</strong> with extensive expertise in 
-      <strong style="color:#3498db;">Big Data Analytics</strong>, 
-      <strong style="color:#9b59b6;">MLOps</strong>, and 
-      <strong style="color:#f39c12;">Machine Learning</strong>. I transform raw data into actionable insights and deploy robust machine learning models in production using tools like <strong>SQL</strong>, <strong>Python</strong>, and <strong>pySpark</strong>.
+      <strong style="color:#3498db;">Big Data Analytics</strong>, and 
+      <strong style="color:#f39c12;">AI Engineer</strong>. I transform raw data into actionable insights and deploy robust machine learning models in production using tools like <strong>SQL</strong>, <strong>Python</strong>, and <strong>pySpark</strong>.
     </p>
   </div>
 
