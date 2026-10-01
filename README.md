@@ -3,7 +3,7 @@
     Hello, I'm <span style="color: #e74c3c;">Edwin Kihara</span>! 👋
   </h1>
   <p style="font-size: 1.5em; color: #34495e; margin-top: 0;">
-    Data Engineer | Big Data Analytics Specialist | MLOps & Machine Learning Professional
+    Data Engineer | Big Data Analytics Specialist | AI Engineer
   </p>
   <!-- Tech-Themed GIF with overlay quote -->
   <div style="position: relative; display: inline-block; margin-top: 20px;">
